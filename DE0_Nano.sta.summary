@@ -1,0 +1,305 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 1.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : 8.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 46.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 89.796
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 247.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 1.524
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_50'
+Slack : 15.628
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 47.505
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 96.656
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 248.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.855
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.987
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_50'
+Slack : 1.613
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 2.066
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 2.625
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 4.695
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.485
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.540
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 49.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 249.747
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 1.863
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 9.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 46.871
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 90.796
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 247.687
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 1.882
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 16.132
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 47.806
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 97.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 248.599
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.761
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.904
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 1.846
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 2.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 4.715
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.486
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.501
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 49.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 249.743
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 3.535
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 12.938
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 48.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 94.153
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 248.507
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 2.970
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 17.378
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 48.812
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 98.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 249.118
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 0.546
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 0.883
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 1.207
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 1.542
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[0]'
+Slack : 4.749
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.311
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[2]'
+Slack : 49.750
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ROBOT_INST|altpll_sys_inst|sd1|pll7|clk[4]'
+Slack : 249.776
+TNS   : 0.000
+
+------------------------------------------------------------
